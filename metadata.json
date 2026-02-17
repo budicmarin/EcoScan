@@ -1,0 +1,7 @@
+{
+  "name": "EcoScan: Smart Trash Sorter",
+  "description": "An AI-powered waste identification app that helps you sort your trash correctly and protect the planet.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
